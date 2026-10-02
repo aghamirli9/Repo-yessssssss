@@ -1,0 +1,30 @@
+
+
+/* 
+h1{
+    font-size: 20px;
+    color: orangered;
+}
+
+h1, h2{
+    color: orangered;
+}
+
+p{
+    font-style: italic;
+} */
+
+/* ul{
+    color: gray;
+} */
+
+h3{
+    color: white;
+    background-color: rgb(255, 0, 0);
+}
+
+b{
+    color: black;
+    background-color: rgb(89, 255, 0);
+    font-family: 'Courier New', Courier, monospace;
+}
