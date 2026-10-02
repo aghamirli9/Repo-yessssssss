@@ -1,4 +1,7 @@
-
+@font-face {
+    font-family: "font1";
+    src: url(./fonts/LibreCaslonCondensed-Italic-VariableFont_wght.ttf);
+}
 
 /* 
 h1{
@@ -26,5 +29,5 @@ h3{
 b{
     color: black;
     background-color: rgb(89, 255, 0);
-    font-family: 'Courier New', Courier, monospace;
+    font-family: "font1";
 }
