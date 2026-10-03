@@ -3,6 +3,16 @@
     src: url(./fonts/LibreCaslonCondensed-Italic-VariableFont_wght.ttf);
 }
 
+@font-face {
+    font-family: "font2";
+    src: url(./fonts/LibreCaslonCondensed-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: "font3";
+    src: url(./fonts/RobotoSlab-VariableFont_wght.ttf);
+}
+
 /* 
 h1{
     font-size: 20px;
@@ -29,5 +39,13 @@ h3{
 b{
     color: black;
     background-color: rgb(89, 255, 0);
+    font-family: "font3";
+}
+
+h4{
+    color: rgb(162, 18, 18);
+    background-color: black;
+    font-weight: 900;
+    font-size: 36px;
     font-family: "font1";
 }
